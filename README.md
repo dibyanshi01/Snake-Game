@@ -17,5 +17,6 @@ The following code can be easily done using PyCharm application which is special
 
 Also, VSCode can be used for this program. Install Python3 from extensions of VSCode. Then, save the program in the form of your_filename.py
 
+![image](https://user-images.githubusercontent.com/88576677/145879446-c00993cd-e098-44d9-97a7-f4e6dd299769.png)
 
 

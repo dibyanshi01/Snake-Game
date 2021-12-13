@@ -9,6 +9,8 @@ Time: This function is used to count the number of seconds elapsed since the epo
 
 Random: This function is used to generate random numbers in Python by using random module.
 
+To install libraries write command on terminal **pip install turtle**
+
 # Support
 
 The following code can be easily done using PyCharm application which is specially made for Python programs.
